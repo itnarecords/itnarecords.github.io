@@ -15,15 +15,13 @@ title: Vita .
 
 ## Amore è Forza
 
-The *Veru Teatru di l’Ora Scura* (or *vtos*) is a current initiated by Bosco M. on November 21st, 2012.
+The *Veru Teatru di l’Ora Scura* (or *vtos*) is a current initiated by Bosco Munimenti on November 21st, 2012.
 
-The manifestation occurred simultaneously on two islands : <em>*Kallístê*</em> & <em>*Bioko*</em>. During his first interview (the *Broken Dialogues* (2018)), Bosco said that he was working on the current on Bioko (*The Jungle in the Sea*) during the day and in a conscious dreaming state, at night, on Kallístê (*The Mountain in the Sea*). He later claimed the opposite and eventually explained that both statements are and have always been true and not mutually exclusive.
+The manifestation occurred simultaneously on two islands : <em>*Kallístê*</em> & <em>*Bioko*</em>. During his first interview (the *Broken Dialogues* (2018)), Bosco said that he had been working on the current on Bioko (*The Jungle in the Sea*) during the day and in a conscious dreaming state, at night, on Kallístê (*The Mountain in the Sea*). He later claimed the opposite and eventually explained that both statements are and have always been true and not mutually exclusive.
 
-The  current is foremost artistic, and as such has also been labelled *Corso-Surrealism*, but has also regularly been claimed to pertain to certain occult and magical traditions due to Bosco stating that vtos manifests, consecrates and celebrates *Lochi di Forza* (Places of Power).
+The  current is foremost artistic, and as such has been labelled *Corso-Afro-Surrealism*, but has also regularly been claimed to pertain to certain occult and magical traditions due to Bosco stating that vtos manifests, consecrates and celebrates *Lochi di Forza* (Places of Power) : country houses, old appartements, suburban streets, half forgotten cities, gardens, clearings, caves, public or private places scattered around the world. Some secret, visited by initiates only, others hidden in plain sight. <em>Lochi</em> present specific properties, intimately linked to the intent and manifestations of *vtos*.
 
-The *Lochi* have been understood as certain houses or appartements, streets, cities, gardens, clearings, caves, public or private places scattered around the world. Some being secret, accessible to vtos members / initiates only, others being hidden in plain sight. They are said to present specific properties, intimately linked to the intent and manifestations of *vtos*.
-
-Some of the *Lochi* mentioned by Bosco on the *Broken Dialogues* were for instance located in a small flat at *Calle Semu (Malabo, Equatorial Guinea)*, the chapel *A Madonna di Pancheraccia (Costa Serena, Corsica)*, *São Pedro de Alcantara (Baixa, Lisboa)* or a house in *Bonamoussadi (Douala, Cameroon)*. 
+On the *Broken Dialogues*, Bosco precisely identified some of the <em>Lochi</em> : *Calle Semu (Malabo, Equatorial Guinea)*, the chapel *A Madonna di Pancheraccia (Costa Serena, Corsica)*, *São Pedro de Alcantara (Baixa, Lisboa)* or a house in a slum in *Bonamoussadi (Douala, Cameroon)*. Hundreds, thousands of them exist - he said - and one could visit them and never see their <em>Forza</em>.
 
 At special times, during the *Mumenti di Forza* (Moments of Power), *Lochi* take on another appearance for who knows how to See. Reality dissolves, otherworldly silhouettes manifest, a mythological presence pervades, the World moves in mysterious ways. The voices of the Goddesses and Gods (*Dee è Dii*) who inhabit them can be heard. They are the rhythms of their steps, their heartbeats, the doors they open and the doors they shut. They are the echoes of their conversations, the electric flux of their thoughts, the precise shades of their feelings. 
 
@@ -96,7 +94,7 @@ The *Cattedrale* is vtos' *Ventre*, its womb. The cave's main room is filled wit
 			<img src="https://res.cloudinary.com/dkpneimf7/image/upload/v1678957212/asphodeles17_axwt0m.png" width=300 />	
 		</td>
 		<td>
-			<em>Asphodèles 17</em> <em>(</em> drummer & percussionist, Kizomba dancer, expressionist painter, math teacher <em>(</em> played in <em>Bells of Esoname</em> (Blackened Death Metal) <em>(</em>
+			<em>Asphodèles 17</em> <em>(</em> drummer & percussionist, Kizomba dancer <em>(</em> played in <em>Bells of Esoname</em> (Blackened Death Metal) <em>(</em>
 		</td>
 	</tr>
 	<tr>
@@ -112,7 +110,7 @@ The *Cattedrale* is vtos' *Ventre*, its womb. The cave's main room is filled wit
 			<img src="https://res.cloudinary.com/dkpneimf7/image/upload/v1678957212/n8r_qjl3c8.png" width=300 />	
 		</td>
 		<td>
-			<em>N8R</em> <em>(</em> kora player, pianist, drum programmer <em>(</em> sex-worker, latin teacher <em>(</em> botanist <em>(</em> landscape photographer <em>(</em>
+			<em>N8R</em> <em>(</em> kora player, pianist, drum programmer <em>(</em> latin teacher <em>(</em> botanist <em>(</em> landscape photographer <em>(</em>
 		</td>
 	</tr>
 	<tr>
@@ -120,7 +118,7 @@ The *Cattedrale* is vtos' *Ventre*, its womb. The cave's main room is filled wit
 			<img src="https://res.cloudinary.com/dkpneimf7/image/upload/v1678957209/ahromance_yf4xdm.png" width=300 />	
 		</td>
 		<td>
-			<em>A.H. Romance</em> <em>(</em> multi-instrumentalist <em>(</em> poet <em>(</em> sound engineer <em>(</em> played in <em>Dolorosa</em> (Symphonic Black Metal, with comrades Siletia, Aze, Anemiath) & <em>Bells of Esoname</em> (Blackened Death Metal) <em>(</em>
+			<em>A.H. Romance</em> <em>(</em> poet <em>(</em> sound engineer <em>(</em> played in <em>Dolorosa</em> (Symphonic Black Metal - salutes Siletia, Aze, Anemiath) & <em>Bells of Esoname</em> (Blackened Death Metal) <em>(</em>
 		</td>
 	</tr>
 	<tr>
@@ -128,7 +126,7 @@ The *Cattedrale* is vtos' *Ventre*, its womb. The cave's main room is filled wit
 			<img src="https://res.cloudinary.com/dkpneimf7/image/upload/v1678957212/gabriellanouce_vyulth.png" width=300 />	
 		</td>
 		<td>
-			<em>Gabriella (Nouçe)</em> / multi instrumentalist <em>(</em> Japanese Noh theater performer <em>(</em> Scandinavian mythology scholar <em>(</em>
+			<em>Gabriella (Nouçe)</em> / multi-instrumentalist <em>(</em> Japanese Noh theater performer <em>(</em> DJ <em>(</em>
 		</td>
 	</tr>
 	<tr>
@@ -136,7 +134,7 @@ The *Cattedrale* is vtos' *Ventre*, its womb. The cave's main room is filled wit
 			<img src="https://res.cloudinary.com/dkpneimf7/image/upload/v1678957211/nicolaslosreyes_y8t3dp.png" width=300 />	
 		</td>
 		<td>
-			<em>Nicolas Los Reyes</em> <em>(</em> guitarist, bassist, percussionist <em>(</em> hypnotist, architect <em>(</em> Opera dei Pupi performer, Santería (Regla de Ifá) adept <em>(</em> played in <em>Bells of Esoname</em> (Blackened Death Metal) <em>(</em>
+			<em>Nicolas Los Reyes</em> <em>(</em> guitarist, bassist, percussionist <em>(</em> hypnotist <em>(</em> Opera dei Pupi performer, Santería (Regla de Ifá) adept <em>(</em> played in <em>Bells of Esoname</em> (Blackened Death Metal) <em>(</em>
 		</td>
 	</tr>
 	<tr>
@@ -144,7 +142,7 @@ The *Cattedrale* is vtos' *Ventre*, its womb. The cave's main room is filled wit
 			<img src="https://res.cloudinary.com/dkpneimf7/image/upload/v1678960826/orso_ljpycb.png" width=300 />	
 		</td>
 		<td>
-			<em>Orso</em> / multi-instrumentalist, bear-tamed man, mask collector, sacred geometer, lawyer
+			<em>Orso</em> / multi-instrumentalist, mask collector, sacred geometer
 		</td>
 	</tr>
 </table>
