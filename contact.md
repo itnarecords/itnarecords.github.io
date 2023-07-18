@@ -8,7 +8,7 @@ title: Contact &
 ## Current, Studio & Label
 
 <p><em>Bosco</em> : orascura /at/ pm.me</p>
-<p><em>Label</em> : itnarecords@pm.me</p>
+<p><em>Label</em> : itnarecords /at/ pm.me</p>
 
 ## Artists
 
