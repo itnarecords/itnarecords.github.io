@@ -19,7 +19,7 @@ mauve <em>Ruinism</em> music .
 
 interested in songs too short or too long ,
 
-parasites sounds, eroded waves. intoxicating thoughts (
+parasite sounds, eroded waves . intoxicating thoughts (
 
 melodies flashing after the actual track, when the light is dimmed and the people are gone &
 
@@ -56,3 +56,17 @@ We pulse and grow between your heartbeats &
 		</td>
 	</tr>
 </table>
+
+<p class="quote">All my life, in unexpected circumstances, a faint smell had appeared around me, or within me - I never knew the difference. It creates intense sensations of mauve, blood-red and golden, almost blindfully white, colors.</p>
+
+<p class="quote">I never could identify this smell precisely. I have tried over and over again to retain its fragrances, to capture them, tame them, name them - but they inevitably slip away. Their elusive presence provokes such a violent contrast that everything seems black, grey and crossed out in their aftermath.</p> 
+
+<p class="quote">A doleful rain remains. And the tumult of birds and insects in the jungle, organic sounds polluting all other senses, hidding everything else in plain sight.</p>
+
+<p class="quote">This smell however, this exact smell, even if for no more than a second, this smell can trigger intoxicating feelings of peace, safety and happiness. It is Divine.</p>
+
+<p class="quote">As I try to grasp these emotions and unravel them in my head, my heart, my throat, my fists; as I try to bathe in them, lose and recover myself in them, fusion with them, the doors close shut. And it’s all gone. And I’m terrified it’s never coming back.</p>
+
+<p class="quote">I wanted to express what it feels like when It’s there and when It’s not. What is a life with It, with Its perfums and Its shades and its vibrations. And what life is when It’s disappeared.</p>
+
+<hr />
