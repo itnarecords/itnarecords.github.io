@@ -70,3 +70,28 @@ We pulse and grow between your heartbeats &
 <p class="quote">I wanted to express what it feels like when It’s there and when It’s not. What is a life with It, with Its perfums and Its shades and its vibrations. And what life is when It’s disappeared.</p>
 
 <hr />
+
+<table>
+	<tr>
+		<td class="left_column">
+			<img src="https://res.cloudinary.com/dkpneimf7/image/upload/v1697394985/%C3%8Atre%20un%20Incendie/Coverr_tvkc1q.png" width=200 />	
+		</td>
+		<td>
+			<em>Être un Incendie</em>
+			<br />
+			12 tracks
+			<br />
+			15 . 10 , 2023 (
+		</td>
+	</tr>
+</table>
+
+<p class="quote">SOMA Laboratory’s Lyra-8 is the lead instrument on each of this album's tracks.</p>
+
+<p class="quote">Lyra-8 is an organismic synthesizer. It is a unique instrument considered to be somewhat haunted. On many levels, it is unpredictable and uncontrollable. In turn, every other instrument on this album had to be tuned and played to accommodate Lyra-8’s will.</p>
+
+<p class="quote">Lyra-8’s eight sensors are affected by skin moisture levels, and, in turn, by the performer’s emotional state.</p>
+
+<p class="quote">This is an album about mental health, depression and healing, anxiety and faith, PTSD and trust, neurological divergences and feelings of belonging. Each track has been composed by immersing ourselves deeply into specific states of mind, surrounding ourselves with carefully chosen colors and images, reciting certain poems and losing ourselves to the echoes of particular chants, channeling into the tip of our fingers the very essence of these eery feelings.</p>
+
+<hr />
