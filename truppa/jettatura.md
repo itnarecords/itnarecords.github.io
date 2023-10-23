@@ -98,6 +98,7 @@ We pulse and grow between your heartbeats &
 	<tr><td><img src="https://res.cloudinary.com/dkpneimf7/image/upload/v1697394976/%C3%8Atre%20un%20Incendie/1r_ghbylj.png" /></td>
 		<td><img src="https://res.cloudinary.com/dkpneimf7/image/upload/v1697394984/%C3%8Atre%20un%20Incendie/6r_wrqy26.png" /></td>
 		<td><img src="https://res.cloudinary.com/dkpneimf7/image/upload/v1697394976/%C3%8Atre%20un%20Incendie/9r_op7xmy.png" /></td>
+		<td><img src="https://res.cloudinary.com/dkpneimf7/image/upload/v1697394986/%C3%8Atre%20un%20Incendie/12r_fhntuj.png" /></td>
 	</tr>
 	<tr>
 		<td><img src="https://res.cloudinary.com/dkpneimf7/image/upload/v1697394986/%C3%8Atre%20un%20Incendie/12r_fhntuj.png" /></td>
