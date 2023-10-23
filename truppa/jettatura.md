@@ -94,4 +94,27 @@ We pulse and grow between your heartbeats &
 
 <p class="quote">This is an album about mental health, depression and healing, anxiety and faith, PTSD and trust, neurological divergences and feelings of belonging. Each track has been composed by immersing ourselves deeply into specific states of mind, surrounding ourselves with carefully chosen colors and images, reciting certain poems and losing ourselves to the echoes of particular chants, channeling into the tip of our fingers the very essence of these eery feelings.</p>
 
+<table>
+	<tr>
+		<td><img src="https://res.cloudinary.com/dkpneimf7/image/upload/v1697394976/%C3%8Atre%20un%20Incendie/1r_ghbylj.png" /></td>
+		<td><img src="https://res.cloudinary.com/dkpneimf7/image/upload/v1697394984/%C3%8Atre%20un%20Incendie/6r_wrqy26.png" /></td>
+		<td><img src="https://res.cloudinary.com/dkpneimf7/image/upload/v1697394976/%C3%8Atre%20un%20Incendie/9r_op7xmy.png" /></td>
+	</tr>
+	<tr>
+		<td><img src="https://res.cloudinary.com/dkpneimf7/image/upload/v1697394986/%C3%8Atre%20un%20Incendie/12r_fhntuj.png" /></td>
+		<td><img src="https://res.cloudinary.com/dkpneimf7/image/upload/v1697394977/%C3%8Atre%20un%20Incendie/15r_i1dnen.png" /></td>
+		<td><img src="https://res.cloudinary.com/dkpneimf7/image/upload/v1697394983/%C3%8Atre%20un%20Incendie/18r_sqef8p.png" /></td>
+	</tr>
+	<tr>
+		<td><img src="https://res.cloudinary.com/dkpneimf7/image/upload/v1697394981/%C3%8Atre%20un%20Incendie/26r_hc0nbn.png" /></td>
+		<td><img src="https://res.cloudinary.com/dkpneimf7/image/upload/v1697394977/%C3%8Atre%20un%20Incendie/29r_wluwyp.png" /></td>
+		<td><img src="https://res.cloudinary.com/dkpneimf7/image/upload/v1697394978/%C3%8Atre%20un%20Incendie/32r_gkckci.png" /></td>
+	</tr>
+	<tr>
+		<td><img src="https://res.cloudinary.com/dkpneimf7/image/upload/v1697394985/%C3%8Atre%20un%20Incendie/35r_ll4hu0.png" /></td>
+		<td><img src="https://res.cloudinary.com/dkpneimf7/image/upload/v1697394978/%C3%8Atre%20un%20Incendie/39r_emsm5t.png" /></td>
+		<td><img src="https://res.cloudinary.com/dkpneimf7/image/upload/v1697394984/%C3%8Atre%20un%20Incendie/42r_v8wdnm.png" /></td>
+	</tr>
+</table>
+
 <hr />
