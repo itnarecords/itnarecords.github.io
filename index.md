@@ -142,7 +142,7 @@ The *Cattedrale* is vtos' *Ventre*, its womb. The cave's main room is filled wit
 			<img src="https://res.cloudinary.com/dkpneimf7/image/upload/v1678960826/orso_ljpycb.png" width=300 />	
 		</td>
 		<td>
-			<em>Orso</em> / multi-instrumentalist, mask collector, sacred geometer
+			<em>Orso</em> 
 		</td>
 	</tr>
 </table>
