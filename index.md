@@ -13,7 +13,7 @@ title: Vita .
 	</tr>
 </table>
 
-## Amore è Forzaa
+## Amore è Forza
 
 The *Veru Teatru di l’Ora Scura* (or *vtos*) is a current initiated by Bosco Munimenti on November 21st, 2012.
 
