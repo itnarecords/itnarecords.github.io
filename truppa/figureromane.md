@@ -25,7 +25,7 @@ truppa: true
 <table>
 	<tr>
 		<td class="left_column">
-			<img src="https://res.cloudinary.com/dkpneimf7/image/upload/v1684834253/Jettatura_-_Cecre%CC%81s_2_nsrxpu.png" width=200 />	
+			<img src="https://res.cloudinary.com/dkpneimf7/image/upload/v1750952296/Figure_Romane_-_Les_Fe%CC%82tes_Ursines_txp3rd.png" width=200 />	
 		</td>
 		<td>
 			<em>Les Fêtes Ursines</em>
