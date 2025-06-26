@@ -17,6 +17,15 @@ title: truppa ,
 	</tr>
 	<tr height=200>
 		<td class="left_column">
+			 <a class="sidebar-nav-item active" href="/truppa/figureromane/"><img src="https://res.cloudinary.com/dkpneimf7/image/upload/v1750947843/Figure_Romane_-_Noir_uv5lif.png" height=100 /></a>	
+		</td>
+		<td class="right_column">
+			<em>Figure Romane</em> . mauve <em>ruinism</em> music <em>(</em> 
+			<br />by <em>Asphodèles 17</em>, <em>Bosco Munimenti</em> &
+		</td>
+	</tr>
+	<tr height=200>
+		<td class="left_column">
 			<a class="sidebar-nav-item active" href="/truppa/bll/"><img src="https://res.cloudinary.com/dkpneimf7/image/upload/v1678957205/bll_h1pgvt.png" height=80 /></a>
 		</td>
 		<td class="right_column">
