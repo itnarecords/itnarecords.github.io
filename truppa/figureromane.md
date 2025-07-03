@@ -6,7 +6,7 @@ truppa: true
 
 <img src="https://res.cloudinary.com/dkpneimf7/image/upload/v1750947843/Figure_Romane_-_Noir_uv5lif.png" height=200 />
 
-<img src="https://res.cloudinary.com/dkpneimf7/image/upload/v1751560326/FigureRomane-Band.png" height=600 />
+<img src="https://res.cloudinary.com/dkpneimf7/image/upload/v1751560326/FigureRomane-Band.png">
 
 <hr />
 
