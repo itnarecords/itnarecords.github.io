@@ -6,6 +6,8 @@ truppa: true
 
 <img src="https://res.cloudinary.com/dkpneimf7/image/upload/v1750947843/Figure_Romane_-_Noir_uv5lif.png" height=200 />
 
+<img src="https://res.cloudinary.com/dkpneimf7/image/upload/v1751560326/FigureRomane-Band.png" height=600 />
+
 <hr />
 
 <p class="quote">Sons enregistrés, captés, capturés, volés, dérobés, débusqués, saturés, modifiés, bouclés, détournés, compressés, filtrés, amplifiés, échantillonnés, mixés, modulés, transposés, découpés, spatialisés, superposés, synchronisés, pitchés, dépitchés, égalisés, samplés, séquencés, tranchés, manipulés, triturés, effacés, masqués, inversés, accélérés, pitch-shiftés, granulés, transformés, assemblés, fusionnés, isolés, extraits, répétés, étirés, détimbrés, bruités, altérés, démultipliés, étouffés, enveloppés, sculptés, fragmentés…</p>
