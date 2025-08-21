@@ -39,5 +39,5 @@ truppa: true
 	</tr>
 </table>
 
-<p class="quote"><a href="#">Album Booklet here</a></p>
+<p class="quote"><a href="https://vtos.faith/public/FigureRomane_LesFetesUrsines_Booklet.pdf">Album Booklet here</a></p>
 
