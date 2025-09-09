@@ -105,6 +105,7 @@ The *Cattedrale* is vtos' *Ventre*, its womb. The cave's main room is filled wit
 			<em>Émilie Nero-Bannie</em> 
 		</td>
 	</tr>
+	<tr>
 		<td width=300>
 			<img src="https://res.cloudinary.com/dkpneimf7/image/upload/v1756915769/VTOS%20Members/ahromance_ktvvnv.png" width=300 />	
 		</td>
