@@ -91,55 +91,38 @@ The *Cattedrale* is vtos' *Ventre*, its womb. The cave's main room is filled wit
 <table>
 	<tr>
 		<td>
-			<img src="https://res.cloudinary.com/dkpneimf7/image/upload/v1678957212/asphodeles17_axwt0m.png" width=300 />	
+			<img src="https://res.cloudinary.com/dkpneimf7/image/upload/v1756915769/VTOS%20Members/asphodeles17_v7rr4i.png" width=300 />	
 		</td>
 		<td>
-			<em>Asphodèles 17</em> <em>(</em> drummer & percussionist, Kizomba dancer <em>(</em> played in <em>Bells of Esoname</em> (Blackened Death Metal) <em>(</em>
+			<em>Asphodèles 17</em> 
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<img src="https://res.cloudinary.com/dkpneimf7/image/upload/v1678957209/emilienerobannie_zonuej.png" width=300 />	
+			<img src="https://res.cloudinary.com/dkpneimf7/image/upload/v1756915769/VTOS%20Members/emilienerobannie_wby5un.png" width=300 />	
 		</td>
 		<td>
-			<em>Émilie Nero-Bannie</em> <em>(</em> keyboardist, clarinetist, cellist, wind composer, programmer, Santería (Regla de Ifá) adept <em>(</em> played in <em>Enter M.Y.</em> (Symphonic Black Metal) <em>(</em>
+			<em>Émilie Nero-Bannie</em> 
 		</td>
 	</tr>
-	<tr>
-		<td>
-			<img src="https://res.cloudinary.com/dkpneimf7/image/upload/v1678957212/n8r_qjl3c8.png" width=300 />	
-		</td>
-		<td>
-			<em>N8R</em> <em>(</em> kora player, pianist, drum programmer <em>(</em> latin teacher <em>(</em> botanist <em>(</em> landscape photographer <em>(</em>
-		</td>
-	</tr>
-	<tr>
 		<td width=300>
-			<img src="https://res.cloudinary.com/dkpneimf7/image/upload/v1678957209/ahromance_yf4xdm.png" width=300 />	
+			<img src="https://res.cloudinary.com/dkpneimf7/image/upload/v1756915769/VTOS%20Members/ahromance_ktvvnv.png" width=300 />	
 		</td>
 		<td>
-			<em>A.H. Romance</em> <em>(</em> poet <em>(</em> sound engineer <em>(</em> played in <em>Dolorosa</em> (Symphonic Black Metal - salutes Siletia, Aze, Anemiath) & <em>Bells of Esoname</em> (Blackened Death Metal) <em>(</em>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<img src="https://res.cloudinary.com/dkpneimf7/image/upload/v1678957212/gabriellanouce_vyulth.png" width=300 />	
-		</td>
-		<td>
-			<em>Gabriella (Nouçe)</em> / multi-instrumentalist <em>(</em> Japanese Noh theater performer <em>(</em> DJ <em>(</em>
+			<em>A.H. Romance</em> 
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<img src="https://res.cloudinary.com/dkpneimf7/image/upload/v1678957211/nicolaslosreyes_y8t3dp.png" width=300 />	
+			<img src="https://res.cloudinary.com/dkpneimf7/image/upload/v1756915769/VTOS%20Members/gabriellanouce_teng25.png" width=300 />	
 		</td>
 		<td>
-			<em>Nicolas Los Reyes</em> <em>(</em> guitarist, bassist, percussionist <em>(</em> hypnotist <em>(</em> Opera dei Pupi performer, Santería (Regla de Ifá) adept <em>(</em> played in <em>Bells of Esoname</em> (Blackened Death Metal) <em>(</em>
-		</td>
+			<em>Gabriella (Nouçe)</em> 
+					</td>
 	</tr>
 	<tr>
 		<td>
-			<img src="https://res.cloudinary.com/dkpneimf7/image/upload/v1678960826/orso_ljpycb.png" width=300 />	
+			<img src="https://res.cloudinary.com/dkpneimf7/image/upload/v1756915769/VTOS%20Members/orso_uaimhe.png" width=300 />	
 		</td>
 		<td>
 			<em>Orso</em> 
