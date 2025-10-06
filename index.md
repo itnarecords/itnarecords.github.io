@@ -23,7 +23,10 @@ These Instruments and these Words are the essence of the *Veru Teatru di l’Ora
 
 <hr />
 
-In a telling moment of the *Broken Dialogues* though, at the very end when the interviewers put the camera and microphones down but kept recording, Bosco stays seated for a short while and continues: <em style="color:light-grey;">but there are so many ways you can look at it. Almost everyday now, I seem to find a new one. What I just described is but one disguise amongst the many disguises on the *Great Visage*.</em>
+In a telling moment of the *Broken Dialogues* though, at the very end when the interviewers put the camera and microphones down but kept recording, Bosco stays seated for a short while and continues: 
+
+<p class="quoting">
+<i>but there are so many ways you can look at it. Almost everyday now, I seem to find a new one. What I just described is but one disguise amongst the many disguises on the *Great Visage*.</i>
 
 — <i>What else could it be then ?</i>
 
@@ -36,6 +39,8 @@ In a telling moment of the *Broken Dialogues* though, at the very end when the i
 — <i>A lot of it is about Love, isn’t it ?</i>
 
 — <i>This is about two things only, and a lot of it is about Love, yes. The other is Fear. Love of Fear… Fear of Love… these are tragic colours. It's an alphabet to compose endless words. When we approach a new manifestation, something needs to occur internally (or externally - although it doesn’t exactly make any difference within vtos). That new idea, whatever that is, must become an obsession and the grandest of things are manifested when one obsesses oneself with Love, or Fear. There were moments when I thought I had finally caught it, you know, Its meaning. It felt immensely clear to me, at last, that behind the kaleidoscopic feelings, there was a drama at play : the love story between the Mediterranean Sea & the Atlantic Ocean. The Maquis and the Equatorial Jungle. Irreconcilable phenomena, yet passionately in love. Within the context of vtos, these finer details, these definitions, they matter more than our own lives. But otherwise, you’re right: we just tell love stories. We’re helpless romantics.</i>
+
+</p>
 
 <hr />
 
@@ -73,7 +78,7 @@ The *Cattedrale* is vtos' *Ventre*, its womb. The cave's main room is filled wit
 <em>vtos</em> is a collective whose core members are:
 
 <table>
-	<tr>
+	    <tr>
 		<td>
 			<img src="https://res.cloudinary.com/dkpneimf7/image/upload/v1756915769/VTOS%20Members/asphodeles17_v7rr4i.png" width=300 />	
 		</td>
@@ -83,19 +88,9 @@ The *Cattedrale* is vtos' *Ventre*, its womb. The cave's main room is filled wit
 		<td>
 			<img src="https://res.cloudinary.com/dkpneimf7/image/upload/v1756915769/VTOS%20Members/ahromance_ktvvnv.png" width=300 />	
 		</td>
-		
 		</tr>
-		<tr>
 		
-		<td>
-			<img src="https://res.cloudinary.com/dkpneimf7/image/upload/v1756915769/VTOS%20Members/gabriellanouce_teng25.png" width=300 />	
-		</td>
-		<td>
-			<img src="https://res.cloudinary.com/dkpneimf7/image/upload/v1756915769/VTOS%20Members/orso_uaimhe.png" width=300 />	
-		</td>
-	</tr>
-	
-	<tr>
+		<tr>
 		<td>
 			<em>Asphodèles 17</em> 
 		</td>
@@ -105,15 +100,25 @@ The *Cattedrale* is vtos' *Ventre*, its womb. The cave's main room is filled wit
 		<td>
 			<em>A.H. Romance</em> 
 		</td>
-		
 		</tr>
-		<tr>
 		
+		<tr>
+		<td>
+			<img src="https://res.cloudinary.com/dkpneimf7/image/upload/v1756915769/VTOS%20Members/gabriellanouce_teng25.png" width=300 />	
+		</td>
+		<td>
+			<img src="https://res.cloudinary.com/dkpneimf7/image/upload/v1756915769/VTOS%20Members/orso_uaimhe.png" width=300 />	
+		</td>
+		<td></td>
+		</tr>
+		
+		<tr>
 		<td>
 			<em>Gabriella (Nouçe)</em> 
 		</td>
 		<td>
 			<em>Orso</em> 
 		</td>
-	</tr>
+		<td></td>
+		</tr>
 </table>

@@ -77,6 +77,12 @@ a.sidebar-nav-item:focus {
   font-style: normal;
 }
 
+.quoting {
+  color: light-grey;
+  font-style: normal;
+}
+
+
 .content {
   padding-top:    4rem;
   padding-bottom: 4rem;
