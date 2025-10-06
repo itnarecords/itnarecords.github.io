@@ -5,14 +5,6 @@ title: Vita .
 
 # vtos
 
-<table>
-	<tr>
-		<td><img src="https://res.cloudinary.com/dkpneimf7/image/upload/v1678972607/mm1_cv9e8d.png" /></td>
-		<td><img src="https://res.cloudinary.com/dkpneimf7/image/upload/v1678972624/mm2_h7wcjf.png" /></td>
-		<td><img src="https://res.cloudinary.com/dkpneimf7/image/upload/v1678972633/mm3_dutakp.png" /></td>
-	</tr>
-</table>
-
 ## Amore è Forza
 
 The *Veru Teatru di l’Ora Scura* (or *vtos*) is a current initiated by Bosco Munimenti on November 21st, 2012.
