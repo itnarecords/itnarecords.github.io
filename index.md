@@ -62,14 +62,6 @@ The *Cattedrale* is vtos' *Ventre*, its womb. The cave's main room is filled wit
 
 *It's a feeling, a commitment to a feeling.*
 
-<table>
-	<tr>
-		<td><img src="https://res.cloudinary.com/dkpneimf7/image/upload/v1678957206/drums1_tp65t4.png" /></td>
-		<td><img src="https://res.cloudinary.com/dkpneimf7/image/upload/v1678957205/drums2_q4w2mz.png" /></td>
-		<td><img src="https://res.cloudinary.com/dkpneimf7/image/upload/v1678957205/drums3_klt2z7.png" /></td>
-	</tr>
-</table>
-
 <img src="https://res.cloudinary.com/dkpneimf7/image/upload/v1678959385/cave2_tsajht.png" />
 
 <img src="https://res.cloudinary.com/dkpneimf7/image/upload/v1678959385/carnets1_bhmiu1.png" />
@@ -86,36 +78,31 @@ The *Cattedrale* is vtos' *Ventre*, its womb. The cave's main room is filled wit
 			<img src="https://res.cloudinary.com/dkpneimf7/image/upload/v1756915769/VTOS%20Members/asphodeles17_v7rr4i.png" width=300 />	
 		</td>
 		<td>
-			<em>Asphodèles 17</em> 
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<img src="https://res.cloudinary.com/dkpneimf7/image/upload/v1756915769/VTOS%20Members/emilienerobannie_wby5un.png" width=300 />	
 		</td>
 		<td>
-			<em>Émilie Nero-Bannie</em> 
-		</td>
-	</tr>
-	<tr>
-		<td width=300>
 			<img src="https://res.cloudinary.com/dkpneimf7/image/upload/v1756915769/VTOS%20Members/ahromance_ktvvnv.png" width=300 />	
 		</td>
-		<td>
-			<em>A.H. Romance</em> 
-		</td>
-	</tr>
-	<tr>
 		<td>
 			<img src="https://res.cloudinary.com/dkpneimf7/image/upload/v1756915769/VTOS%20Members/gabriellanouce_teng25.png" width=300 />	
 		</td>
 		<td>
-			<em>Gabriella (Nouçe)</em> 
-					</td>
+			<img src="https://res.cloudinary.com/dkpneimf7/image/upload/v1756915769/VTOS%20Members/orso_uaimhe.png" width=300 />	
+		</td>
 	</tr>
+	
 	<tr>
 		<td>
-			<img src="https://res.cloudinary.com/dkpneimf7/image/upload/v1756915769/VTOS%20Members/orso_uaimhe.png" width=300 />	
+			<em>Asphodèles 17</em> 
+		</td>
+		<td>
+			<em>Émilie Nero-Bannie</em> 
+		</td>
+		<td>
+			<em>A.H. Romance</em> 
+		</td>
+		<td>
+			<em>Gabriella (Nouçe)</em> 
 		</td>
 		<td>
 			<em>Orso</em> 
