@@ -23,7 +23,7 @@ These Instruments and these Words are the essence of the *Veru Teatru di l’Ora
 
 <hr />
 
-In a telling moment of the *Broken Dialogues* though, at the very end when the interviewers put the camera and microphones down but kept recording, Bosco stays seated for a short while and continues: <i>but there are so many ways you can look at it. Almost everyday now, I seem to find a new one. What I just described is but one disguise amongst the many disguises on the *Great Visage*.</i>
+In a telling moment of the *Broken Dialogues* though, at the very end when the interviewers put the camera and microphones down but kept recording, Bosco stays seated for a short while and continues: <em style="color:light-grey;">but there are so many ways you can look at it. Almost everyday now, I seem to find a new one. What I just described is but one disguise amongst the many disguises on the *Great Visage*.</em>
 
 — <i>What else could it be then ?</i>
 
@@ -83,6 +83,10 @@ The *Cattedrale* is vtos' *Ventre*, its womb. The cave's main room is filled wit
 		<td>
 			<img src="https://res.cloudinary.com/dkpneimf7/image/upload/v1756915769/VTOS%20Members/ahromance_ktvvnv.png" width=300 />	
 		</td>
+		
+		</tr>
+		<tr>
+		
 		<td>
 			<img src="https://res.cloudinary.com/dkpneimf7/image/upload/v1756915769/VTOS%20Members/gabriellanouce_teng25.png" width=300 />	
 		</td>
@@ -101,6 +105,10 @@ The *Cattedrale* is vtos' *Ventre*, its womb. The cave's main room is filled wit
 		<td>
 			<em>A.H. Romance</em> 
 		</td>
+		
+		</tr>
+		<tr>
+		
 		<td>
 			<em>Gabriella (Nouçe)</em> 
 		</td>
